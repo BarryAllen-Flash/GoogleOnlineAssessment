@@ -2,7 +2,7 @@
 Solutions to all the Google Online Assessments Problems
 
 ## List of Problems
-1. [Compare Strings](https://leetcode.com/discuss/interview-question/352458/) - [Solution](compare_strings.py)
+1. [Compare Strings](compare_strings.py)
 2. [Largest Subarray Length K](https://leetcode.com/discuss/interview-question/352459/)
 3. [Most Booked Hotel Room](https://leetcode.com/discuss/interview-question/421787/)
 4. [Watering Flowers](https://leetcode.com/discuss/interview-question/394347/)
